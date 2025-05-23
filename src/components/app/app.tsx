@@ -7,7 +7,7 @@ import {
   ResetPassword,
   Profile,
   ProfileOrders,
-  NotFound404
+  NotFound
 } from '@pages';
 import '../../index.css';
 import styles from './app.module.css';
@@ -85,7 +85,7 @@ export default function App() {
             </ProtectedRoute>
           }
         />
-        <Route path='*' element={<NotFound404 />} />
+        <Route path='*' element={<NotFound />} />
         <Route path='/feed/:number' element={<OrderInfo />} />
         <Route path='/ingredients/:id' element={<IngredientDetails />} />
         <Route
