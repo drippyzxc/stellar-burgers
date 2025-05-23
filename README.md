@@ -10,4 +10,8 @@
 
 The Burger-Stellar project is a full-fledged frontend application-shop, with the ability to register, create an order and view both all orders and each order separately. It is also possible to edit your data in the user's personal account.
 
+## Implementation
+
+The main page is divided into 2 parts:
+
 ## Stack in the project
