@@ -8,6 +8,7 @@
 </div>
 <hr>
 
+The Burger-Stellar project is a full-fledged frontend application-shop, with the ability to register, create an order and view both all orders and each order separately. It is also possible to edit your data in the user's personal account.
 
 
 [Макет](<https://www.figma.com/file/vIywAvqfkOIRWGOkfOnReY/React-Fullstack_-Проектные-задачи-(3-месяца)_external_link?type=design&node-id=0-1&mode=design>)
