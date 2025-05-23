@@ -1,4 +1,13 @@
-# Проектная работа 11-го спринта
+<div align="center">
+<h1>Yandex Project - ono-tebe-nado'</h1>
+<a href="https://drippyzxc.github.io/stellar-burgers/">
+<img src="https://github.com/drippyzxc/appslogo/blob/main/Screenshot_23-May_17-57-22_22639.png">
+</img>
+</a>
+</div>
+<hr>
+
+
 
 [Макет](<https://www.figma.com/file/vIywAvqfkOIRWGOkfOnReY/React-Fullstack_-Проектные-задачи-(3-месяца)_external_link?type=design&node-id=0-1&mode=design>)
 
