@@ -19,6 +19,6 @@ The main page is divided into 2 parts:
 <img src="https://github.com/drippyzxc/gifforwork/blob/main/stellar-burgers/stellar-burgers-main.gif"></img>
 </div>
 <br>
-To place an order, you need to log in to your personal account by clicking on the link 'Login' or 'Personal account' in the upper right corner. After placing the order, a number will be issued and a modal window will open.
+To place an order, you need to log in to your personal account by clicking on the link 'Place an order' or 'Personal account' in the upper right corner. After placing the order, a number will be issued and a modal window will open.
 
 ## Stack in the project
