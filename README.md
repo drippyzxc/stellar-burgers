@@ -25,6 +25,10 @@ To place an order, you need to log in to your personal account by clicking on th
 </div>
 <br>
 You can view all orders in the 'Order Feed' section, which contains all user orders.
+<div align="center">
+<img src="https://github.com/drippyzxc/gifforwork/blob/main/stellar-burgers/stellar-burgers-second-order-list.gif"></img>
+</div>
+<br>
 
 ## Stack
 
