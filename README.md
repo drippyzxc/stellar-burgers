@@ -34,6 +34,14 @@ You can view all orders in the 'Order Feed' section, which contains all user ord
 </div>
 <br>
 
+It is possible to manage user data in the 'Profile' section of the Personal Account.
+
+<div align="center">
+</br>
+<img src="https://github.com/drippyzxc/gifforwork/blob/main/stellar-burgers/stellar-burgers-profile.png"></img>
+</div>
+<br>
+
 ## Stack
 
 <div align="left">
