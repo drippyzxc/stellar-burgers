@@ -26,5 +26,9 @@ To place an order, you need to log in to your personal account by clicking on th
 <div align="left">
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-666?style=for-the-badge&logo=html5&logoColor=%23660000&labelColor=%23000&color=%23000"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-666?style=for-the-badge&logo=css3&logoColor=%23660000&labelColor=%23000&color=%23000"></a> 
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/react-666?style=for-the-badge&logo=react&logoColor=%23660000%20&labelColor=%23000&color=%23000"></
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/react-666?style=for-the-badge&logo=react&logoColor=%23660000%20&labelColor=%23000&color=%23000"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-666?style=for-the-badge&logo=typescript&logoColor=%23660000&labelColor=%23000&color=%23000"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-666?style=for-the-badge&logo=javascript&logoColor=%23660000&labelColor=%23000&color=%23000"></a>
+  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-666?style=for-the-badge&logo=redux&logoColor=%23660000&labelColor=%23000&color=%23000"></a>
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-666?style=for-the-badge&logo=figma&logoColor=%23660000&labelColor=%23000&color=%23000"></a>
 </div>
