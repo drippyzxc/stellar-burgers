@@ -16,4 +16,6 @@ The main page is divided into 2 parts:
 * **Left**: List of all ingredients in the form of cards, available for ordering. Tabs are implemented for convenient switching of ingredient types.
 * **Right**: List of ingredients placed in the basket. To place and issue an order number, you must select a burger bun as the basis for the order.
 
+![main-video](https://github.com/drippyzxc/gifforwork/blob/main/stellar-burgers/stellar-burgers-main.gif)
+
 ## Stack in the project
