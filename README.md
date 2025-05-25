@@ -32,3 +32,10 @@ To place an order, you need to log in to your personal account by clicking on th
   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-666?style=for-the-badge&logo=redux&logoColor=%23660000&labelColor=%23000&color=%23000"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-666?style=for-the-badge&logo=typescript&logoColor=%23660000&labelColor=%23000&color=%23000"></a>
 </div>
+
+## My contact
+<div align="left">
+<a href="https://t.me/rarogdev"><img width="32px" alt="Telegram" title="Telegram" src="https://github.com/drippyzxc/appslogo/blob/main/telegram(1).png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="mailto:rarog123321@gmail.com" alt="Gmail" title="Gmail"><img width="32px" src="https://github.com/drippyzxc/appslogo/blob/main/mail(1).png"/></a>
+</div>
