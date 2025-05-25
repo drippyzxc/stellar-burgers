@@ -24,6 +24,7 @@ To place an order, you need to log in to your personal account by clicking on th
 <img src="https://github.com/drippyzxc/gifforwork/blob/main/stellar-burgers/stellar-burgers-second.gif"></img>
 </div>
 <br>
+
 ## Stack
 
 <div align="left">
