@@ -20,7 +20,10 @@ The main page is divided into 2 parts:
 </div>
 <br>
 To place an order, you need to log in to your personal account by clicking on the link 'Place an order' or 'Personal account' in the upper right corner. After placing the order, a number will be issued and a modal window will open.
-
+<div align="center">
+<img src="https://github.com/drippyzxc/gifforwork/blob/main/stellar-burgers/stellar-burgers-second.gif"></img>
+</div>
+<br>
 ## Stack
 
 <div align="left">
