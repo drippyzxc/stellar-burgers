@@ -14,6 +14,6 @@ The Burger-Stellar project is a full-fledged frontend application-shop, with the
 
 The main page is divided into 2 parts:
 * **Left**: List of all ingredients in the form of cards, available for ordering. Tabs are implemented for convenient switching of ingredient types.
-* **Right**: List of ingredients added to the basket. To place an order and receive an order number, you must log in and select a burger bun as the basis for your order.
+* **Right**: List of ingredients placed in the basket. To place and issue an order number, you must select a burger bun as the basis for the order.
 
 ## Stack in the project
