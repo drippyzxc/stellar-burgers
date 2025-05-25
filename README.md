@@ -20,14 +20,16 @@ The main page is divided into 2 parts:
 </div>
 <br>
 To place an order, you need to log in to your personal account by clicking on the link 'Place an order' or 'Personal account' in the upper right corner. After placing the order, a number will be issued and a modal window will open.
-<br>
+
 <div align="center">
+</br>
 <img src="https://github.com/drippyzxc/gifforwork/blob/main/stellar-burgers/stellar-burgers-second.gif"></img>
 </div>
 <br>
 You can view all orders in the 'Order Feed' section, which contains all user orders.
-<br>
+
 <div align="center">
+</br>
 <img src="https://github.com/drippyzxc/gifforwork/blob/main/stellar-burgers/stellar-burgers-second-order-list.gif"></img>
 </div>
 <br>
